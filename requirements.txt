@@ -1,0 +1,7 @@
+Flask
+Pillow
+dash
+pandas
+dash-table
+plotly
+requests
